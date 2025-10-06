@@ -56,4 +56,25 @@ Complete all the exercises in this assignment and push your code to GitHub using
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+
+- ------------------------------------------------------------------------------------------------
+# MongoDB Bookstore Project
+
+## Description
+This project demonstrates fundamental and advanced MongoDB concepts including CRUD operations, aggregation pipelines, and indexing.
+
+## Database Info
+- **Database:** plp_bookstore  
+- **Collection:** books
+
+## How to Run
+1. Start your MongoDB server:
+2. Open Mongo Shell:
+3. Load the insert script:
+4. Run queries:
+
+## Files Included
+- `insert_books.js` — populates sample book data
+- `queries.js` — contains all MongoDB queries
+- `screenshot.png` — shows data in MongoDB Compass
